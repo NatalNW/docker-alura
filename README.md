@@ -1,2 +1,7 @@
-# alura-docker
-Projeto do curso de Docker
+# How to run
+
+```bash
+docker-compose build
+docker-compose up
+```
+see the app in https://localhost:80/
